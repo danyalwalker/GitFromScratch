@@ -1,4 +1,5 @@
 public class NewBranchCommits {
     // new branch commit 1
+    //commit 2
 
 }
